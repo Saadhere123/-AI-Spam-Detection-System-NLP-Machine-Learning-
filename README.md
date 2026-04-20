@@ -53,14 +53,6 @@ This project is built for learning, internship submission, and portfolio showcas
 
 ---
 
-## 📈 Model Performance
-
-| Model                | Accuracy |
-|---------------------|----------|
-| Naive Bayes         | ~85%     |
-| SVM                 | ~90%     |
-| Logistic Regression | ~92%     |
-
 ---
 💾 Model Files
 best_model.pkl → Trained ML model
