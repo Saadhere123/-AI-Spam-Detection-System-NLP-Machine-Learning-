@@ -78,14 +78,6 @@ If you like this project, please ⭐ the repository to support my work!
 
 ---
 
-# 🚀 If you want next level upgrade:
-I can also make:
-
-🔥 LinkedIn post (viral internship post)  
-🔥 Portfolio website (React AI showcase)  
-🔥 Professional CV project description  
-🔥 GitHub pinned projects setup  
-
 👨‍💻 Author
 Saad Khan
 AI & Data Analytics Enthusiast
